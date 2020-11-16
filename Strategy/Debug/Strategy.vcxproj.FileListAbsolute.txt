@@ -1,0 +1,2 @@
+D:\VSProjects\Strategy\Debug\Strategy.exe
+D:\VSProjects\Strategy\Debug\Strategy.pdb

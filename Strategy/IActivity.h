@@ -13,5 +13,5 @@ public:
 	virtual void Do() = 0;
 
 private:
-int a = 0;
+	
 };
